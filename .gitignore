@@ -58,3 +58,4 @@ nunit-*.xml
 obj/**
 bin/**
 .vs/**
+oldResources.cs.bak
