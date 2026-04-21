@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <Compile Include="Plugin.cs" />
+    <Compile Include="AssemblyInfo.cs" />
   </ItemGroup>
 
   <ItemGroup>
